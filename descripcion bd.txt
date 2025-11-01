@@ -1,0 +1,11 @@
+Proyecto: mi primer base de datos (SQLite + Visual Studio Code)
+*Tecnologías utilizadas
+_SQLite 
+_Visual Studio Code
+_Extensión SQLite (vscode-sqlite) para ejecutar consultas SQL directamente desde VS Code
+
+*Lenguaje SQL para definir estructuras y manipular datos
+_Estructura del proyecto
+clientes.sql creación y registro de clientes
+productos.sql creación y registro de productos
+pedidos.sql  creación de pedidos y relaciones entre clientes y productos
