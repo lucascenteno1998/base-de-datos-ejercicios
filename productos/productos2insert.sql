@@ -5,4 +5,8 @@ VALUES
   ('Paquete de harina', 8000.00, 8),
   ('Paquete de azucar', 7000.00, 12),
   ('Yerba', 2500.00, 20),
-  ('Aceite', 3800.50, 25);
+  ('Aceite', 3800.50, 25),
+  ('carnes', 8000.00, 100),
+  ('gaseosas', 25000.00, 20),
+  ('galletitas', 1500.00, 13),
+  ('carbon', 1900.00, 40);
